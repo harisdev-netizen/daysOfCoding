@@ -11,3 +11,4 @@ Here you will find all of the project live previews.
  | Day     | Project Name    | Source Code/Preview |
 | :---     | :-------------  | :------------------ |  
 | Day - 01 | Animated Text   | https://hardcore-lamport-8b172f.netlify.app |
+| Day - 02 | Touch Swipe     | https://goofy-sinoussi-5ee82e.netlify.app   |
