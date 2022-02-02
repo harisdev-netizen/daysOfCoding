@@ -14,3 +14,4 @@ Here you will find all of the project live previews.
 | Day - 02 | Touch Swipe     | https://goofy-sinoussi-5ee82e.netlify.app   |
 | Day - 03 | Email Validation     | https://elated-bardeen-f9bd75.netlify.app   |
 | Day - 04 | Digital UI Clock Design     | https://mystifying-darwin-b6c41a.netlify.app   |
+| Day - 05 | Stopwatch     | https://admiring-bhabha-255dd1.netlify.app   |
